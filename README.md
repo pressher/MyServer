@@ -79,16 +79,9 @@ Comme précédemment dit, je vais séparer les services en trois catégories. Ce
 - Interface Web de gestion de serveur ([CockPit](https://cockpit-project.org/running)) 
 - Serveur de portail captif ([PFSense](https://www.pfsense.org/))
 
-# Les sites internet
 
-- [Labo-Tech.fr](https://labo-tech.fr/) : partages de connaissances autour de l'IT ([Wordpress](https://fr.wordpress.org/))
-- [MickaelAsseline.com](https://mickaelasseline.com/) : CV & Portfolio ([Wordpress](https://fr.wordpress.org/))
-- [Csgo.papamica.fr](https://csgo.papamica.fr/) : profil de joueurs Counter Strike (HTML/CSS/JS)
-- [SoleneCheymol.com](https://solenecheymol.com/) : CV & Portfolio (HTML/CSS/JS)
-- [PlumCulture.fr](https://plumculture.fr/) : blog autour de la culture contemporaine ([Wordpress](https://fr.wordpress.org/))
-- [Cyprienmescouilles.ovh](http://cyprienmescouilles.ovh/) : site troll pour un confrère (HTML/CSS/JS)
 
-# Pour un usage professionel
+## Pour un usage professionel
 - Gestionnaire de service d'assistancce ([GLPI](https://glpi-project.org/fr/))
 - Supervision de services ([Zabbix](https://www.zabbix.com/) // *Alternative* [Centreon](https://centreon.com/) / [LibreNMS](https://librenms.org/) )
 - Controleur de domaine ([ActiveDirectory](https://docs.microsoft.com/fr-fr/windows-server/identity/ad-ds/active-directory-domain-services))
@@ -101,6 +94,18 @@ Comme précédemment dit, je vais séparer les services en trois catégories. Ce
 - Serveur de gestion de projets ([Odoo]())
 - Sreveur mail exhange/ibm ([]())
 -
+
+
+
+# Les sites internet
+
+- [Labo-Tech.fr](https://labo-tech.fr/) : partages de connaissances autour de l'IT ([Wordpress](https://fr.wordpress.org/))
+- [MickaelAsseline.com](https://mickaelasseline.com/) : CV & Portfolio ([Wordpress](https://fr.wordpress.org/))
+- [Csgo.papamica.fr](https://csgo.papamica.fr/) : profil de joueurs Counter Strike (HTML/CSS/JS)
+- [SoleneCheymol.com](https://solenecheymol.com/) : CV & Portfolio (HTML/CSS/JS)
+- [PlumCulture.fr](https://plumculture.fr/) : blog autour de la culture contemporaine ([Wordpress](https://fr.wordpress.org/))
+- [Cyprienmescouilles.ovh](http://cyprienmescouilles.ovh/) : site troll pour un confrère (HTML/CSS/JS)
+
 
 ![enter image description here](https://send.papamica.fr/f.php?h=0sHtfSwD&d=1)
 
