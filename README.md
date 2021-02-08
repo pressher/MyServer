@@ -3,41 +3,30 @@ La liste de tous mes services.
 
 
 
-![enter image description here](https://send.papamica.fr/f.php?h=3t0unxE4&d=1)
 
-Certains services sont en libre service, d'autres sur inscription ou encore pour une utilisation familiale et privée.
-
-Je mettrai cette liste à jour au fur et à mesure de mes nouvelles découvertes et de mes nouveaux projets.
 
 La quasi-totalité de ces services tournent sur un seul serveur dédié hébergé chez [OneProvider](https://oneprovider.com/fr/node/1). Le serveur tourne sous Debian 10 avec [Docker](https://www.docker.com/), [Docker-Compose](https://docs.docker.com/compose/), [Portainer](https://www.portainer.io/) et [Traefik](https://traefik.io/). J'utilise mon script post-installation pour faire l'installation du serveur, installer les utilitaires indispensables, changer le ports SSH, etc ...
 
   
 
 # Les services
-Comme précédemment dit, je vais séparer les services en trois catégories. Cette liste permet surtout de mettre en avant des solutions Open Source que j'ai pu mettre en place et que je souhaite partager.
 
-  
 
-## En libre service
 
-- Partage de textes ([Hastebin](https://hastebin.com/about.md) // *Alternative à Pastebin*) : [hastebin.papamica.fr](https://hastebin.papamica.fr)
-- Partage d'images ([Chevereto](https://chevereto.com/) // *Alternative à Imgur*) : [img.papamica.fr](https://img.papamica.fr)
-- Partage de fichiers ([Jirafeau](https://framalibre.org/content/jirafeau) // *Alternative à Wetransfert*) : [send.papamica.fr](https://send.papamica.fr)
+- Partage de textes ([Hastebin](https://hastebin.com/about.md) // *Alternative à Pastebin*) : [hastebin.presher.fr](https://hastebin.presher.fr)
+- Partage d'images ([Chevereto](https://chevereto.com/) // *Alternative à Imgur*) : [img.presher.fr](https://img.presher.fr)
+- Partage de fichiers ([Jirafeau](https://framalibre.org/content/jirafeau) // *Alternative à Wetransfert*) : [send.presher.fr](https://send.presher.fr)
 - Raccourcisseur d'URL ([Yourls](https://yourls.org/) / [Kutt](https://kutt.it/) // *Alternative à bit.ly*) : [ppmc.me](https://ppmc.me)
-- Serveur vocal [TeamSpeak](https://www.teamspeak.com/en/) : [ts3.papamica.fr](ts3://ts3.papamica.fr)
-- Interface web du serveur TeamSpeak ([ts-website](https://github.com/Wruczek/ts-website)) : [tsweb.papamica.fr](https://tsweb.papamica.fr)
-- Statistique du serveur TeamSpeak ([Ranksystem](https://ts-ranksystem.com/)) : [ts3rank.papamica.fr](https://ts3rank.papamica.fr)
-- Bot du serveur TeamSpeak ([Sinusbot](https://www.sinusbot.com/)) : [sinusbot.papamica.fr](https://sinusbot.papamica.fr)
-- Serveur vocal [Mumble](https://www.mumble.info/) : [mumble.papamica.fr](https://mumble.papamica.fr)
-- Client web du serveur Mumble ([Mumble-Web](https://github.com/Johni0702/mumble-web)) : [web-mumble.papamica.fr](https://web-mumble.papamica.fr)
+- Serveur vocal [TeamSpeak](https://www.teamspeak.com/en/) : [ts3.presher.fr](ts3://ts3.presher.fr)
+- Interface web du serveur TeamSpeak ([ts-website](https://github.com/Wruczek/ts-website)) : [tsweb.presher.fr](https://tsweb.presher.fr)
+- Statistique du serveur TeamSpeak ([Ranksystem](https://ts-ranksystem.com/)) : [ts3rank.presher.fr](https://ts3rank.presher.fr)
+- Bot du serveur TeamSpeak ([Sinusbot](https://www.sinusbot.com/)) : [sinusbot.presher.fr](https://sinusbot.presher.fr)
+- Serveur vocal [Mumble](https://www.mumble.info/) : [mumble.presher.fr](https://mumble.presher.fr)
+- Client web du serveur Mumble ([Mumble-Web](https://github.com/Johni0702/mumble-web)) : [web-mumble.presher.fr](https://web-mumble.presher.fr)
 - Bot du serveur Mumble ([MumbleDJ](https://github.com/matthieugrieger/mumbledj))
-- Partages de ressources IT ([Filebrowser](https://github.com/filebrowser/filebrowser) modifié) : [partages.papamica.fr](https://partages.papamica.fr)
-- Partages de ressources IT avec lien direct ([Apache](https://httpd.apache.org/)) : [partages-directs.papamica.fr](https://partages-directs.papamica.fr)
-- Page Status de mes services ([CachetHQ](https://github.com/CachetHQ/Cachet)) : [status.papamica.fr](https://status.papamica.fr)
-  
-
-## Sur inscription
-
+- Partages de ressources IT ([Filebrowser](https://github.com/filebrowser/filebrowser) modifié) : [partages.presher.fr](https://partages.presher.fr)
+- Partages de ressources IT avec lien direct ([Apache](https://httpd.apache.org/)) : [partages-directs.presher.fr](https://partages-directs.presher.fr)
+- Page Status de mes services ([CachetHQ](https://github.com/CachetHQ/Cachet)) : [status.presher.fr](https://status.presher.fr)
 - Un concentrateur de messagerie ([Ferdi](https://getferdi.com/) // *Alternative à Franz*)
 - Gestionnaire de mot de passes ([Bitwarden](https://bitwarden.com/) // *Alternatice à Dashlane*)
 - Cloud privé ([NextCloud](https://nextcloud.com/) // *Alternative à GoogleDrive*)
