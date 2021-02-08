@@ -40,11 +40,6 @@ La quasi-totalité de ces services tournent sur un seul serveur dédié héberg�
 - Gestionnaire de repo et CI/CD ([Gitlab](https://about.gitlab.com/))
 - Partage de formations ([Filebrowser](https://github.com/filebrowser/filebrowser) modifié)
 - Éditeur de texte en ligne ([VSCode](https://hub.docker.com/r/codercom/code-server))
-
-
-
-## Pour un usage personnel et familiale
-
 - Serveur de streaming ([Plex](https://www.plex.tv/fr/) // *Alternative à Netflix*)
 - Système de téléchargement automatique :
 	- Catalogue de demandes ([Ombi](https://ombi.io/))
@@ -96,7 +91,19 @@ La quasi-totalité de ces services tournent sur un seul serveur dédié héberg�
 - [Cyprienmescouilles.ovh](http://cyprienmescouilles.ovh/) : site troll pour un confrère (HTML/CSS/JS)
 
 
-![enter image description here](https://send.papamica.fr/f.php?h=0sHtfSwD&d=1)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Cela fait maintenant plusieurs mois que je suis passé sous Linux sur l'ensemble de mes ordinateurs (sauf 1, essentiel pour le gaming et l'utilisation de certains logiciels dont la suite Adobe).
 
