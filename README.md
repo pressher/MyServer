@@ -1,6 +1,4 @@
-# MyServer
-La liste de tous mes services.
-
+# Serveur Presher x Mezi
 
 
 
