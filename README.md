@@ -62,15 +62,10 @@
 - Gestionnaire de service d'assistancce ([GLPI](https://glpi-project.org/fr/))
 - Supervision de services ([Zabbix](https://www.zabbix.com/) // *Alternative* [Centreon](https://centreon.com/) / [LibreNMS](https://librenms.org/) )
 - Controleur de domaine ([ActiveDirectory](https://docs.microsoft.com/fr-fr/windows-server/identity/ad-ds/active-directory-domain-services))
-- Serveur de virtualisation ([]() // *Alternative [Proxmox]() / []()*)
-- Serveur DHCP
-- Sreveur de déploiement ([FOG]())
-- Serveur de téléphonie IP ([]())
+- Serveur de virtualisation ([VMware ESXi 6.7](https://www.vmware.com/fr/products/esxi-and-esx.html) // *Alternative [Proxmox](https://www.proxmox.com/en/) )
+- Serveur DHCP 
+- Serveur de déploiement ([FOG](https://fogproject.org/))
+- Serveur de téléphonie IP ([Asterisk](https://www.asterisk.org/))
 - Ansible
-- Serveur de base de données ([Lotus]())
-- Serveur de gestion de projets ([Odoo]())
-- Sreveur mail exhange/ibm ([]())
--
-
-
-  
+- Serveur de base de données
+- Serveur de gestion de projets ([Odoo](https://www.odoo.com/fr_FR/))
