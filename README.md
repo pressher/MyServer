@@ -30,7 +30,7 @@
 - Interface générale des services ([Organizr](https://organizr.app/))
 - Sauvegarde de photos ([OwnPhotos](https://github.com/hooram/ownphotos) / [PhotoPrism](https://photoprism.app/) // Alternative à Google Photo)
 - Sauvegarde de serveurs & ordinateurs ([UrBackup](https://www.urbackup.org/))
-- Serveur mail ([Poste.io](poste.io) // *Alternative à Gmail*)
+- Serveur mail ([Poste.io](poste.io) // *Alternative à Gmail* / Hmailserver)
 - Client web-mail ([Roundcube](https://roundcube.net/) // *Alternative à Gmail*)
 - Gestionnaire de repo et CI/CD ([Gitlab](https://about.gitlab.com/))
 - Partage de formations ([Filebrowser](https://github.com/filebrowser/filebrowser) modifié)
