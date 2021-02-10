@@ -2,10 +2,9 @@
 
 
 
-
 [OneProvider](https://oneprovider.com/fr/node/1). 
 [Docker](https://www.docker.com/), [Docker-Compose](https://docs.docker.com/compose/), [Portainer](https://www.portainer.io/) et [Traefik](https://traefik.io/)
-  
+
 
 # Les services
 
@@ -68,3 +67,65 @@
 - Ansible
 - Serveur de base de données
 - Serveur de gestion de projets ([Odoo](https://www.odoo.com/fr_FR/))
+
+## DevOps / Système
+- GNU/Linux (Debian, Redhat, Ubuntu, CentOS, Arch Linux)
+- Création de paquets RPM/DEB (création et maintenance de dépôts également)
+- FreeBSD / OpenBSD
+- Raspberry Pi / Raspbian
+- Webperf / Benchmark
+- Hight Availability / Scalability
+- Tomcat
+- Elasticsearch / Logstash / Kibana
+- Solr / Lucene
+- Jenkins
+- Gitlab
+- Jira / Confluence
+- Google Workspace / Apps
+- LibreOffice
+- Gimp
+- Nagios / Centreon
+- Telegraf
+- InfluxDB
+- Grafana
+- MySQL / PostgreSQL / SQLite
+- ProxySQL / mmm
+MongoDB
+Redis
+KVM / Qemu
+Docker (+compose, machine)
+Vagrant
+Ansible
+Terraform
+Intégration|Déploiement Continu
+Git / Subversion
+LX(C|D)
+VMWare
+OpenStack
+AWS / Google Cloud Platform / Azure
+Digital Ocean
+OVH
+Scaleway
+FinOps
+OpenVPN / IPSec
+RabbitMQ
+OpenLDAP
+Samba / NFS
+Shorewall / IPTables / PfSense
+Postfix
+IMAP / SMTP
+GnuPG
+Varnish / Memcache
+Apache / Nginx / Lighttpd
+OpenSSL / Let’s Encrypt
+Dev
+Perl
+Python (Système, Django, Flask)
+C / C++
+Bash
+Google Apps Script
+HTML 5 / CSS 3
+Javascript / NodeJS
+SQL / NoSQL
+JSON / YAML
+Hugo - Static Site Generator
